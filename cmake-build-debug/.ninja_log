@@ -1,0 +1,5 @@
+# ninja log v5
+6	110	7375610084495702	CMakeFiles/3ind.dir/main.c.obj	ad9d2a8b1233d477
+110	201	7375610085384774	3ind.exe	4cb1981ea458eb4
+6	132	7375605948020424	CMakeFiles/3ind.dir/sysfun.c.obj	1fedc7fd8becaa08
+9	55	7375564569617808	CMakeFiles/3ind.dir/usefun.c.obj	b1cf206b4052d5d4
